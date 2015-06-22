@@ -1,0 +1,15 @@
+.DS_Store
+
+
+# Xcode
+*.pbxuser
+*.xcuserstate
+*.xccheckout
+xcuserdata
+profile
+DerivedData
+build/
+*ipa
+
+#AppCode
+.idea/
